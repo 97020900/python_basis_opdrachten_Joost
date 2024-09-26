@@ -5,3 +5,6 @@
 # Hier komt je code...
 
 my_list = ...
+
+a = 5
+print (a)
