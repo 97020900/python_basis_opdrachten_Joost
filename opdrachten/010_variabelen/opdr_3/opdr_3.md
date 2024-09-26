@@ -15,10 +15,3 @@ naam = willem
 achternaam = van der broek  
 leeftijd = 23  
 favoriete kleur = blauw  
-
-
-
-
-
-
-
