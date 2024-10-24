@@ -1,5 +1,5 @@
 # Opdracht 1
-# Naam student:
+# Naam student: Joost Dommerholt
 # Groep:
 
 # Hier komt je code...
