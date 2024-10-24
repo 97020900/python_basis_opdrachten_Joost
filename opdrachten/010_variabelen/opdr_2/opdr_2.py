@@ -4,6 +4,6 @@
 
 # Hier komt je code...
 
-my_tuple = (1, 8, 75, "lekker weertje")
+my_tuple = (11, 13.5, 8009, "Oh, een tulpe")
 
 print (my_tuple)
